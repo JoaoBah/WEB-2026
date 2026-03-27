@@ -19,3 +19,6 @@ git commit -m "Comentario que você deseja fazer"(commit);
 git remote add "nome" link(do repositorio)
 
 git push "nome" main(Upar)
+
+
+git checkout -b "Nome(mudar de branch criando uma variavel sem alterar a principal)
