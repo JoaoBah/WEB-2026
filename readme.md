@@ -1,9 +1,21 @@
 Començando alguma coisa
 
-01- git add (Nome Arquivo ou . para selecionar todos);
+Git é usado na forma de códigos em repositorios para criar, alterar entre outros.
 
-02- git status (Ver oque está para upar);
+Seus Principais Comandos na criação ou commit de arquivos e repositorios são:
 
-03- git commit -m "Comentario que você deseja fazer"(comitar);
+git init(transforma a pasta em repositorio);
 
-04- git push "orogin" main(Upar)
+git branch -m "Main"(sair de master para main);
+
+criar repositorio no GitHub;
+
+git add (Nome Arquivo ou . para selecionar todos);
+
+git status (Ver oque está para upar);
+
+git commit -m "Comentario que você deseja fazer"(commit);
+
+git remote add "nome" link(do repositorio)
+
+git push "nome" main(Upar)
