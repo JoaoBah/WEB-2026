@@ -22,3 +22,5 @@ git push "nome" main(Upar)
 
 
 git checkout -b "Nome(mudar de branch criando uma variavel sem alterar a principal)
+
+git checkout main(voltar para a main)
